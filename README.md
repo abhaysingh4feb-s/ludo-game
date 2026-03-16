@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.svg" width="120" height="120" alt="Ludo King Logo">
+  <img src="icon.svg" width="120" height="120" alt="Ludo Logo">
 </p>
 
-<h1 align="center">Ludo King</h1>
+<h1 align="center">Ludo</h1>
 
 <p align="center">
   <strong>Classic Ludo board game for Android — play with friends or challenge AI</strong>
