@@ -130,6 +130,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <p align="center">
   <a href="https://github.com/abhaysingh4feb-s/ludo-game/releases/download/v1.0.0/app-release.apk">
-    <img src="https://img.shields.io/badge/Download_Ludo_King-v1.0.0-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Download">
+    <img src="https://img.shields.io/badge/Download_Ludo-v1.0.0-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Download">
   </a>
 </p>
