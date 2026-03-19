@@ -1,4 +1,4 @@
-# Privacy Policy — Ludo King
+# Privacy Policy — Ludo
 
 **Effective Date:** March 14, 2026
 **Developer:** Abhay Pratap Singh (APS Games)
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Ludo King is an offline board game for Android. We are committed to protecting your privacy. This app does **not** collect, store, or transmit any personal data.
+Ludo is an offline board game for Android. We are committed to protecting your privacy. This app does **not** collect, store, or transmit any personal data.
 
 ## Information We Collect
 
@@ -41,7 +41,7 @@ This app is suitable for all ages. We do not knowingly collect any information f
 Since all data is stored locally on your device, you can delete it at any time:
 
 1. Go to **Android Settings**
-2. Tap **Apps** → **Ludo King**
+2. Tap **Apps** → **Ludo**
 3. Tap **Storage** → **Clear Data**
 
 This removes all game saves, statistics, and preferences.
